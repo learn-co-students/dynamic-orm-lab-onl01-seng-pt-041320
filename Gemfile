@@ -2,4 +2,4 @@
 source "https://rubygems.org"
 
 gem 'pry'
-gem 'sqlite'
+gem 'sqlite3'#, '~>1.3.6'
